@@ -1,0 +1,15 @@
+D:\CSCI1250\Labs\Lab6\ShowCharacter\bin\Debug\net6.0\ShowCharacter.exe
+D:\CSCI1250\Labs\Lab6\ShowCharacter\bin\Debug\net6.0\ShowCharacter.deps.json
+D:\CSCI1250\Labs\Lab6\ShowCharacter\bin\Debug\net6.0\ShowCharacter.runtimeconfig.json
+D:\CSCI1250\Labs\Lab6\ShowCharacter\bin\Debug\net6.0\ShowCharacter.dll
+D:\CSCI1250\Labs\Lab6\ShowCharacter\bin\Debug\net6.0\ref\ShowCharacter.dll
+D:\CSCI1250\Labs\Lab6\ShowCharacter\bin\Debug\net6.0\ShowCharacter.pdb
+D:\CSCI1250\Labs\Lab6\ShowCharacter\obj\Debug\net6.0\ShowCharacter.csproj.AssemblyReference.cache
+D:\CSCI1250\Labs\Lab6\ShowCharacter\obj\Debug\net6.0\ShowCharacter.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSCI1250\Labs\Lab6\ShowCharacter\obj\Debug\net6.0\ShowCharacter.AssemblyInfoInputs.cache
+D:\CSCI1250\Labs\Lab6\ShowCharacter\obj\Debug\net6.0\ShowCharacter.AssemblyInfo.cs
+D:\CSCI1250\Labs\Lab6\ShowCharacter\obj\Debug\net6.0\ShowCharacter.csproj.CoreCompileInputs.cache
+D:\CSCI1250\Labs\Lab6\ShowCharacter\obj\Debug\net6.0\ShowCharacter.dll
+D:\CSCI1250\Labs\Lab6\ShowCharacter\obj\Debug\net6.0\ref\ShowCharacter.dll
+D:\CSCI1250\Labs\Lab6\ShowCharacter\obj\Debug\net6.0\ShowCharacter.pdb
+D:\CSCI1250\Labs\Lab6\ShowCharacter\obj\Debug\net6.0\ShowCharacter.genruntimeconfig.cache
